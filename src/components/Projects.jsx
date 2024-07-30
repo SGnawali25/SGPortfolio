@@ -5,7 +5,7 @@ const Projects = () => (
     <h2>Projects</h2>
     <div className="project">
       <h3>CreditWise - December 2023</h3>
-      <a href='https://github.com/sgnawali25/creditwise'>Github Link</a>
+      <a href='https://github.com/sgnawali25/creditwise' target='blank'>Github Link</a>
       <p><strong>Technologies:</strong> Python, Matplotlib, Pandas, Numpy, ScikitLearn, React, Django</p>
       <ul>
         <li>Designed and implemented an automated loan prediction system utilizing machine learning algorithms to approve loans based on client-provided information.</li>
@@ -17,8 +17,8 @@ const Projects = () => (
     </div>
     <div className="project">
       <h3>SmartShopper  - May 2023 to August 2023</h3>
-      <p><a href='https:smartshopper.sandeshgnawali.com.np'>Website Link</a></p>
-      <p><a href='https://github.com/sgnawali25/smartshopper'>Github Link</a></p>
+      <p><a href='https://smartshopper.sandeshgnawali.com.np' target='blank'>Website Link</a></p>
+      <p><a href='https://github.com/sgnawali25/smartshopper' target='blank'>Github Link</a></p>
       <p><strong>Technologies:</strong> React, Express, NodeJS, MongoDB, Redux, HTML, CSS</p>
       <ul>
         <li>Developed a fully functional e-commerce website integrating Express and MongoDB to construct a robust backend, ensuring fast performance and data reliability.</li>
