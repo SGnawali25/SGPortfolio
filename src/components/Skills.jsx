@@ -38,6 +38,8 @@ const Skills = () => (
         <h3>Developer Tools</h3>
         <ul>
           <li>AWS</li>
+          <li>Azure</li>
+          <li>Google Cloud</li>
           <li>Git</li>
           <li>Docker</li>
           <li>Cloudflare</li>
