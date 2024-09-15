@@ -19,7 +19,7 @@ const Header = () => {
 
   return (
     <header className='header'>
-      <h1>My Portfolio</h1>
+      <h1>Sandesh Gnawali</h1>
       {isMobileView ? (
         <>
           <button className='menu-button' onClick={handleMenuClick}>
