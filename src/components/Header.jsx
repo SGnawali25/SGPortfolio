@@ -30,8 +30,8 @@ const Header = () => {
             <li><a href="#skills">Skills</a></li>
             <li><a href="#projects">Projects</a></li>
             <li><a href="#education">Education</a></li>
-            <li><a href="#contact">Contact</a></li>
             <li><a href="#hackathons">Hackathons</a></li>
+            <li><a href="#contact">Contact</a></li>
             <li><a href="https://drive.google.com/file/d/1G4ttWItOaE5VLwC25WpqZEKbGesuTWlf/view" target='_blank' rel='noopener noreferrer'>Resume</a></li>
           </ul>
         </>
@@ -42,8 +42,8 @@ const Header = () => {
             <li><a href="#skills">Skills</a></li>
             <li><a href="#projects">Projects</a></li>
             <li><a href="#education">Education</a></li>
-            <li><a href="#contact">Contact</a></li>
             <li><a href="#hackathons">Hackathons</a></li>
+            <li><a href="#contact">Contact</a></li>
             <li><a href="https://drive.google.com/file/d/1G4ttWItOaE5VLwC25WpqZEKbGesuTWlf/view" target='_blank' rel='noopener noreferrer'>Resume</a></li>
           </ul>
         </nav>
