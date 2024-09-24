@@ -198,11 +198,15 @@ section#contact p {
 }
 
 .about-image {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
+  /* width: 80%; 
+  max-width: 400px; 
+  height: 70%; 
+  border-radius: 8px;*/
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 100%; /* Make the image take full width of its container */
+  max-width: 400px; /* Set a maximum width for larger screens */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 20% 50% 20% 50%
 }
 
 .about-text {
@@ -348,4 +352,16 @@ a{
 
 a:hover{
   color: rgb(136, 255, 127);
+}
+
+@media (max-width: 768px) {
+  .about-container {
+      flex-direction: column; 
+      align-items: center;
+  }
+
+  .about-text {
+      margin-left: 0; 
+      text-align: center; 
+  }
 }
