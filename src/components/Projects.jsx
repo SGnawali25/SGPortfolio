@@ -93,6 +93,11 @@ const Projects = () => (
           for efficient performance and reliable data management.
         </li>
         <li>
+          Deployed two backend servers on Vercel and implemented a load balancer 
+          using the round-robin algorithm to distribute traffic evenly, optimizing 
+          performance and reliability.
+        </li>
+        <li>
           Handled image uploads seamlessly by integrating Cloudinary, allowing
           users and admins to easily upload and manage product images with
           secure cloud storage.
