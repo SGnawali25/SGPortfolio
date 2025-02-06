@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => (
   <section id="about">
     <div className="about-container">
-      <img src="/images/sandesh.jpg" alt="Your Name" className="about-image" />
+      <img src="/images/sandesh.JPG" alt="Your Name" className="about-image" />
       <div className="about-text">
         <h2>About Me</h2>
         <p>Hello! I'm Sandesh Gnawali, a passionate Computer Science student. I love solving complex problems, creating innovative projects, and constantly learning new technologies.</p>
