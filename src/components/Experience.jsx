@@ -4,9 +4,35 @@ const Experience = () => (
   <section id="experiences">
     <h2>Experiences</h2>
     <div className="experience-item">
-      <h3>Software Engineering Intern - Department of Energy SRNL</h3>
+      <h3>Software Development Engineer Intern - Amazon </h3>
       <p>
-        <strong>March 2024 - Present</strong>
+        <strong>May 2025 - Aug 2025</strong>
+      </p>
+      <ul>
+        <li>
+          Designed and deployed cloud infrastructure using AWS CDK in TypeScript, provisioning scalable resources including Lambda functions, SQS
+queues, and Eventbridge
+        </li>
+        <li>
+          Developed Lambda functions with AWS SDK in TypeScript to interact with cloud services and enable seamless event-driven workflows
+        </li>
+        <li>
+          Implemented CloudWatch monitoring and logging to ensure reliability and performance of serverless applications
+        </li>
+        <li>
+          Collaborated with the engineering team to build and optimize event-driven workflows, enhancing system scalability and reducing manual
+intervention
+        </li>
+
+        <li>
+          Automated a manual process to run in under 2 minutes, improving operational efficiency by 90%
+        </li>
+      </ul>
+    </div>
+    <div className="experience-item">
+      <h3>Software Engineer Intern - Department of Energy SRNL</h3>
+      <p>
+        <strong>March 2024 - April 2025</strong>
       </p>
       <ul>
         <li>
@@ -63,7 +89,7 @@ const Experience = () => (
     <div className="experience-item">
       <h3>Software Developer Intern - Aspiring Youth Enrichment Services</h3>
       <p>
-        <strong>September 2023 - December 2023</strong>
+        <strong>May 2023 - December 2023</strong>
       </p>
       <ul>
         <li>
