@@ -7,6 +7,7 @@ import Education from './components/Education';
 import Contact from './components/Contact';
 import Experience from './components/Experience';
 import Hackathons from './components/Hackathons';
+import { Analytics } from '@vercel/analytics/react';
 
 import './App.css';
 
@@ -21,7 +22,7 @@ function App() {
       <Projects />
       <Hackathons/>
       <Contact />
-      
+      <Analytics />
     </div>
   );
 }
